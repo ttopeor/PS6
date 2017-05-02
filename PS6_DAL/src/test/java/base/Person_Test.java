@@ -45,7 +45,7 @@ public class Person_Test {
 		WeichengHuang.setCity("Newark");
 		WeichengHuang.setPostalCode(19711);
 		WeichengHuang.setStreet("613s twin lakes blvd");
-		WeichengHuang.setPersonID(YueFengUUID);
+		WeichengHuang.setPersonID(WeichengHuangUUID);
 
 		
 	}
